@@ -1,5 +1,5 @@
 # DrumlessVision
->提供一個平台可以供鼓手膠輪分享鼓譜<br />
+>提供一個平台可以供鼓手交流分享鼓譜<br />
 >Popous：<a href="http://www.drumtab.ntueedu.com">http://www.drumtab.ntueedu.com</a>
 >  * 使用 bootstrap框架 , html , css , jquery<br />
 <a href="http://www.drumtab.ntueedu.com">![Alt text](/githubPic/home.png)</a><br />
@@ -18,7 +18,7 @@
 
 
 >#####  瀏覽歌曲：<br />
->  ![Alt text](/githubPic/musuc.png)<br />
+>  ![Alt text](/githubPic/music.png)<br />
 >
 >#####  觀看影片＆鼓譜：<br />
 >  ![Alt text](/githubPic/video.png)<br />

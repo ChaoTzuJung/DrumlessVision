@@ -1,6 +1,6 @@
 # DrumlessVision
 >提供一個平台可以供鼓手交流分享鼓譜<br />
->Popous：<a href="http://www.drumtab.ntueedu.com">http://www.drumtab.ntueedu.com</a>
+>DrumlessVision：<a href="http://www.drumtab.ntueedu.com">http://www.drumtab.ntueedu.com</a>
 >  * 使用 bootstrap框架 , html , css , jquery<br />
 <a href="http://www.drumtab.ntueedu.com">![Alt text](/githubPic/home.png)</a><br />
 
